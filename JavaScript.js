@@ -1,3 +1,3 @@
 function hola(){
-    console.log('hola');
+    alert('hola');
 }
